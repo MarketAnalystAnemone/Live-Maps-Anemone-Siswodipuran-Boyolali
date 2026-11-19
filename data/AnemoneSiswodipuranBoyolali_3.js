@@ -1,0 +1,1 @@
+var json_AnemoneSiswodipuranBoyolali_3 = {"type":"FeatureCollection","name":"AnemoneSiswodipuranBoyolali_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Les Baca Tulis Anemone Siswodipuran Boyolali"},"geometry":{"type":"Point","coordinates":[110.6101343,-7.5370898]}}]}
